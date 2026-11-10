@@ -1,0 +1,19 @@
+indicator value that we want: GDP per capita (constant 2010 US$)
+
+want years to become rows (wide to long)
+want indicators to become columns (long to wide)
+
+wide to long
+    this means lots of columns --> lots of rows
+long to wide
+    lots of rows --> lots of columns
+
+long to wide first is harder than wide to long first
+
+easier to do wide to long first and then long to wide
+
+
+income_shares = ["one", "two", "three"]
+
+for c in income_shares:
+    
